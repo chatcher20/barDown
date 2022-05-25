@@ -1,0 +1,102 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.app {
+  min-width: 500px;
+  min-height: 975px;
+  height: 812px;
+  overflow: hidden;
+  overflow-y: scroll;
+  padding-right: 10px;
+  margin: 0;
+  background-color: white;
+  font-family: 'Montserrat';
+}
+
+.app::-webkit-scrollbar {
+  width: 1px;
+}
+
+.contents {
+  min-width: 375px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 125px 50px;
+  height: 60%;
+  z-index: 1;
+}
+
+.current {
+  border-bottom: 4px solid white;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 60px;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+
+div img {
+  height: 300px;
+  width: fit-content;
+}
+
+.badge img {
+  font-size: 20px;
+  height: 100px;
+  width: fit-content;
+}
+
+li img {
+  height: 200px;
+}
+
+// friends
+.friend-badge {
+  height: 50px;
+}
+
+// program & library
+.search-bar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 30px;
+  justify-content: center;
+  input {
+    width: 340px;
+  }
+}
+
+
+
+
+.profile-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.profile-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+

@@ -1,0 +1,39 @@
+.current-program {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#current-select {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 12px;
+  gap: 20px;
+}
+
+.graph-btns {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  gap: 10px;
+}
+.progress-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  .progress-content {
+    margin: 0 10px 10px 10px;
+  }
+}
+
+.current {
+  border-bottom: 4px solid white;
+}
+
+.current-program-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

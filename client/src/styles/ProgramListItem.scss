@@ -1,0 +1,29 @@
+
+.media-content-programs{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.media {
+  display: flex;
+  flex-direction: column;
+}
+
+.media-left {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 15px;
+}
+
+.program-title {
+  width: 185px;
+}
+
+.library-tag {
+  display: flex;
+  flex-direction: row;
+  margin-top: 35px;
+  gap: 25px;
+}

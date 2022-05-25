@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgb(130, 123, 216);
+  top: 0;
+  height: 80px;
+  z-index: 1000;
+  padding: 8px 10px 0px 15px;
+  img {
+    height: 65px;
+  }
+}

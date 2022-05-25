@@ -1,0 +1,57 @@
+.input {
+  margin: 10px 0;
+}
+
+.input-bottom {
+  margin: 12px 0 25px 0;
+}
+
+.password {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+#new-select {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.bmi-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  .bmi {
+    display: flex;
+    flex-grow: 10;
+    align-items: center;
+  }
+}
+
+.layout {
+  display: flex;
+  flex-direction: column;
+}
+
+.macro {
+  display: flex;
+  flex-direction: column;
+}
+
+.bmi {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+}
+
+.bmi-content {
+  width: 120px;
+  display:flex;
+  justify-content: space-between;
+}
+
+.message-body {
+  height: 160px;
+}
