@@ -2,7 +2,6 @@
 
 > An application that helps hockey coaches design practices with instructions and tutorials on hockey drills, such as skating and puck-handling techniques.
 
-
 ## Demo
 
 #### Home Page
