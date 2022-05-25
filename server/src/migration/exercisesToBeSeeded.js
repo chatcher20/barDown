@@ -14,7 +14,7 @@ const exercisesToBeSeeded = [
   {
     name: "Breakout: Transition from Box +1 to Breakout",
     description:
-      "A breakout drill that simulates breaking out of the defensive zone after playing a 'box +1' defensive scheme.",
+      "A drill that simulates breaking out of the defensive zone after playing a 'box +1' defensive scheme.",
     video_url: "https://www.youtube.com/watch?v=Uc2SMalX7ng&list=PLAA1B7F192B173834&index=2",
   },
   // {
