@@ -13,14 +13,13 @@
 
 
 
-
-
 ## Using the app
 
 1. In PostgreSQL, `create database tostrong;`
 2. Run `npm i` in both `/server` and `/client` to install the relevant packages
 3. Run `npm run seeding` in `/server` to seed the database
-4. Run `npm start` in both `/server` and `/client` and React should automatically open a browser tab with the demo
+4. Run `npm start` in both `/server` and `/client` and React should automatically open a browser tab with the demo (http://localhost:3000/)
+
 
 ## Tech Stack
 
