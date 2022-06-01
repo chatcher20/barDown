@@ -1,7 +1,8 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 import "../styles/Header.scss";
-import logo from "../images/️toStrong-logos_black.png";
+import logo from "../images/️logo.png";
+
 
 export default function Header() {
   return (

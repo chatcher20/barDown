@@ -7,9 +7,9 @@ export default function Library() {
   return (
     <div>
       <div className="title is-size-3"> 
-        All Workouts - 
+        Hockey Drills 
         <div className='subtitle is-size-5'>
-          Exercise Library
+          Video Library
         </div>
       </div>
       <div className="search-bar">
