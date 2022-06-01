@@ -17,12 +17,12 @@ const exercisesToBeSeeded = [
       "A breakout drill that simulates breaking out of the defensive zone after playing a 'box +1' defensive scheme.",
     video_url: "https://www.youtube.com/watch?v=Uc2SMalX7ng&list=PLAA1B7F192B173834&index=2",
   },
-  // {
-  //   name: "Deadlift",
-  //   description:
-  //     "The deadlift is a weight training exercise in which a loaded barbell or bar is lifted off the ground to the level of the hips, torso perpendicular to the floor, before being placed back on the ground. It is one of the three powerlifting exercises, along with the squat and bench press.",
-  //   video_url: "https://www.youtube.com/watch?v=3oMjoOm5O18",
-  // },
+  {
+    name: "Deadlift",
+    description:
+      "The deadlift is a weight training exercise in which a loaded barbell or bar is lifted off the ground to the level of the hips, torso perpendicular to the floor, before being placed back on the ground. It is one of the three powerlifting exercises, along with the squat and bench press.",
+    video_url: "https://www.youtube.com/watch?v=3oMjoOm5O18",
+  },
   // {
   //   name: "Chin Up",
   //   description:
